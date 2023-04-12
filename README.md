@@ -7,4 +7,4 @@ FinSent does sentiment analysis of financial news: Uses natural language process
 ## Divya
 ## Suyash 
 ## Nivedita
-## Abhii 
+## Abhijit 
